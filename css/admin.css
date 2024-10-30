@@ -1,0 +1,33 @@
+.tern_errors, .tern_alerts { background:#ffebe8;border:1px solid #c00;margin:10px 15px 10px 0;padding:0 .6em;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;color:#c00; }
+.tern_alerts { background:#cbffcd;border:1px solid #390;color:#030; }
+.req { color:#ff0000; }
+.tern_ok {
+	background:#37de37;border:1px solid #b4f3b4;margin:10px 15px 10px 0;padding:0 .6em;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;color:#fff;
+}
+#recorder_button {
+	background-color: #FE504F;
+	color: #fff;
+	font-size: 12px;
+	line-height: 18px;
+	height: auto;
+	padding: 10px 16px;
+	margin: 10px 10px 20px 0;
+	font-weight: bold;
+	-webkit-transition: all .3s ease-out;
+	-moz-transition: all .3s ease-out;
+	transition: all .3s ease-out;
+	border: 0;
+	position: relative;
+	overflow: hidden;
+	outline: none;
+	text-shadow: none;
+	text-decoration: none;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	vertical-align: middle;
+	max-width: 100%;
+}
